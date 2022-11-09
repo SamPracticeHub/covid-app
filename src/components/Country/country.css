@@ -1,0 +1,20 @@
+.country {
+    background: #fff;
+    margin-bottom: 15px;
+    display: flex;
+}
+
+.country-total {
+    padding: 20px 30px;
+    background: rgb(95 182 215);
+    font-size: 22px;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    min-width: 100px;
+}
+
+.country > h1 {
+    padding: 20px 30px;
+    font-size: 22px;
+    margin: 0;
+}

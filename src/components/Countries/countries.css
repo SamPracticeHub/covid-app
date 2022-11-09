@@ -1,0 +1,42 @@
+.countries {
+    padding: 40px;
+    text-align: left;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.countries-controls {
+    background: #fff;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+.countries-control {
+    margin-bottom: 15px;
+}
+
+.countries-controls input {
+    padding: 10px;
+    border: none;
+    background: #fff;
+    border: solid 1px #333;
+    width: 100%;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 15px;
+}
+
+.countries-controls label {
+    display: block;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+
+.countries-controls button {
+    padding: 10px 20px;
+    border: none;
+    background: rgb(95 182 215);
+    color: #fff;
+    font-weight: 700;
+    width: 100%;
+}
